@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>tree_swing_2_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {40, 64}}</string>
+			<key>offset</key>
+			<string>{-3, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{9, 0}, {40, 64}}</string>
+			<key>sourceSize</key>
+			<string>{64, 64}</string>
+		</dict>
+		<key>tree_swing_2_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{42, 1}, {40, 64}}</string>
+			<key>offset</key>
+			<string>{-4, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{8, 0}, {40, 64}}</string>
+			<key>sourceSize</key>
+			<string>{64, 64}</string>
+		</dict>
+		<key>tree_swing_2_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{83, 1}, {40, 64}}</string>
+			<key>offset</key>
+			<string>{-6, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{6, 0}, {40, 64}}</string>
+			<key>sourceSize</key>
+			<string>{64, 64}</string>
+		</dict>
+		<key>tree_swing_2_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{124, 1}, {40, 64}}</string>
+			<key>offset</key>
+			<string>{-4, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{8, 0}, {40, 64}}</string>
+			<key>sourceSize</key>
+			<string>{64, 64}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{256, 128}</string>
+	</dict>
+</dict>
+</plist>

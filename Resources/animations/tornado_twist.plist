@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>tornado_twist_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {80, 251}}</string>
+			<key>offset</key>
+			<string>{-10, -2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 5}, {80, 251}}</string>
+			<key>sourceSize</key>
+			<string>{100, 256}</string>
+		</dict>
+		<key>tornado_twist_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{82, 1}, {78, 251}}</string>
+			<key>offset</key>
+			<string>{-11, -2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 5}, {78, 251}}</string>
+			<key>sourceSize</key>
+			<string>{100, 256}</string>
+		</dict>
+		<key>tornado_twist_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{161, 1}, {77, 251}}</string>
+			<key>offset</key>
+			<string>{-11.5, -2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 5}, {77, 251}}</string>
+			<key>sourceSize</key>
+			<string>{100, 256}</string>
+		</dict>
+		<key>tornado_twist_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{239, 1}, {77, 251}}</string>
+			<key>offset</key>
+			<string>{-11.5, -2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 5}, {77, 251}}</string>
+			<key>sourceSize</key>
+			<string>{100, 256}</string>
+		</dict>
+		<key>tornado_twist_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{317, 1}, {77, 251}}</string>
+			<key>offset</key>
+			<string>{-11.5, -2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 5}, {77, 251}}</string>
+			<key>sourceSize</key>
+			<string>{100, 256}</string>
+		</dict>
+		<key>tornado_twist_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{395, 1}, {77, 251}}</string>
+			<key>offset</key>
+			<string>{-11.5, -2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 5}, {77, 251}}</string>
+			<key>sourceSize</key>
+			<string>{100, 256}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{512, 256}</string>
+	</dict>
+</dict>
+</plist>

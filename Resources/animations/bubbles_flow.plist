@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bubbles_flow_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {6, 5}}</string>
+			<key>offset</key>
+			<string>{0, -5.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 11}, {6, 5}}</string>
+			<key>sourceSize</key>
+			<string>{16, 16}</string>
+		</dict>
+		<key>bubbles_flow_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{8, 1}, {8, 12}}</string>
+			<key>offset</key>
+			<string>{-1, -2}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 4}, {8, 12}}</string>
+			<key>sourceSize</key>
+			<string>{16, 16}</string>
+		</dict>
+		<key>bubbles_flow_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{17, 1}, {9, 11}}</string>
+			<key>offset</key>
+			<string>{-0.5, 2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 0}, {9, 11}}</string>
+			<key>sourceSize</key>
+			<string>{16, 16}</string>
+		</dict>
+		<key>bubbles_flow_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{27, 1}, {6, 6}}</string>
+			<key>offset</key>
+			<string>{-2, 5}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 0}, {6, 6}}</string>
+			<key>sourceSize</key>
+			<string>{16, 16}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{64, 32}</string>
+	</dict>
+</dict>
+</plist>
