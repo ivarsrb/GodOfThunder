@@ -12,5 +12,5 @@ Don't let the Conquistadors capture Incan cities! Even if one of them reaches ci
 ### Technologies
 Developed using Objective-C programming language and powered by *Cocos2d* rendering engine.
 ### Author
-Designed and developed by [Ivars Rb.](https://github.com/ivarsrb)  
-Copyright © 2011 Ivars Rb.
+Designed and developed by [Ivars Rusbergs](https://github.com/ivarsrb)  
+Copyright © 2011 Ivars Rusbergs
